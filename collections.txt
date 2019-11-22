@@ -1,1 +1,2 @@
 http://dubbo.apache.org/zh-cn/docs/user/quick-start.html
+测试请求地址：http://httpbin.org/get
